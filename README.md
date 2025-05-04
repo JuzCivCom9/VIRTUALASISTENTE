@@ -1,0 +1,1 @@
+# Asistente Virtual IA - Juzgado Civil y Comercial N° 9 - La Matanza\n\nDesarrollado con Streamlit. Permite consultas guiadas y libres sobre preguntas frecuentes, enlaces útiles y atención digital personalizada.
